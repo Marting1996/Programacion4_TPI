@@ -4,8 +4,8 @@ Trabajo Práctico Integrador — Programación IV — Tecnicatura Universitaria 
 
 Aplicación web para un negocio de comidas: los clientes se registran, recorren el catálogo, arman un carrito y confirman pedidos indicando dirección de entrega y forma de pago. El administrador gestiona categorías, productos, stock, pedidos y usuarios desde un panel.
 
-- **Repositorio:** https://github.com/USUARIO/REPOSITORIO
-- **Video de demostración:** https://LINK-AL-VIDEO
+- **Repositorio:** https://github.com/Marting1996/Programacion4_TPI
+- **Video de demostración:** https://drive.google.com/file/d/1mqfw-1GnoDLtAQvodBerrC5VhLANKOPx/view?usp=sharing
 
 ## Tecnologías
 
